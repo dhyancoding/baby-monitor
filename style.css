@@ -1,0 +1,42 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #no
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 1px 1px 38px;
+    
+}
+
+body{
+    background-color: peachpuff;
+    background-size: cover;
+}
+
+#img1{
+    position: fixed;
+    bottom: 90;
+    left: 850;
+    scale: 0.5;
+
+    transform:rotate(10deg)
+}
+
+#img2{
+    position: fixed;
+    top: -350;
+    right: 350;
+    scale: 0.2;
+
+}
+
+canvas{
+    margin-top: 20px;
+}
